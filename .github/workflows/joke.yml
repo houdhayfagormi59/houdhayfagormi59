@@ -1,0 +1,40 @@
+name: Update Daily Joke
+on:
+  schedule:
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update-joke:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update joke
+        run: |
+          python3 << 'PYEOF'
+          import urllib.request, json, re
+          try:
+              with urllib.request.urlopen("https://v2.jokeapi.dev/joke/Programming?type=single&safe-mode") as r:
+                  data = json.load(r)
+              joke = data.get("joke", "Why do Java developers wear glasses? Because they don't C#!")
+          except:
+              joke = "Why do programmers prefer dark mode? Because light attracts bugs! 🐛"
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+          updated = re.sub(
+              r'<!-- JOKE_START -->.*?<!-- JOKE_END -->',
+              f'<!-- JOKE_START -->\n> 💬 {joke}\n<!-- JOKE_END -->',
+              content, flags=re.DOTALL
+          )
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(updated)
+          print(f"Joke: {joke}")
+          PYEOF
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "update daily joke"
+          git push
