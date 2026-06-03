@@ -78,7 +78,10 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 I'd tell you a joke about NAT but I would have to translate.
+> 💬 "Honey, go to the store and buy some eggs."
+"OK."
+"Oh and while you're there, get some milk."
+He never returned.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
