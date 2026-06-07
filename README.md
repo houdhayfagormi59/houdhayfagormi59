@@ -78,7 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
+> 💬 "We messed up the keming again guys."
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
