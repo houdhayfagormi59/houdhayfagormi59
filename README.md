@@ -78,7 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 Debugging: Removing the needles from the haystack.
+> 💬 Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
