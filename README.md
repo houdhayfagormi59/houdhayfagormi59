@@ -78,7 +78,10 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
+> 💬 Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn."
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
