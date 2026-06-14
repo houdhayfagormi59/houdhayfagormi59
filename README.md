@@ -78,7 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 I have a joke about Stack Overflow, but you would say it's a duplicate.
+> 💬 Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
