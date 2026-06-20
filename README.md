@@ -78,7 +78,11 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 There are only 10 kinds of people in this world: those who know binary and those who don't.
+> 💬 Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
