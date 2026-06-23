@@ -78,8 +78,11 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 Have a great weekend!
-I hope your code behaves the same on Monday as it did on Friday.
+> 💬 Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
