@@ -78,9 +78,8 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 "Can I tell you a TCP joke?"
-"Please tell me a TCP joke."
-"OK, I'll tell you a TCP joke."
+> 💬 A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?"
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
