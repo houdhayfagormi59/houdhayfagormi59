@@ -78,7 +78,10 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
+> 💬 Eight bytes walk into a bar.
+The bartender asks, "Can I get you anything?"
+"Yeah," reply the bytes.
+"Make us a double."
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
