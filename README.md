@@ -78,7 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 // This line doesn't actually do anything, but the code stops working when I delete it.
+> 💬 Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
