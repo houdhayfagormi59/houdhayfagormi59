@@ -78,7 +78,10 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
+> 💬 Eight bytes walk into a bar.
+The bartender asks, "Can I get you anything?"
+"Yeah," reply the bytes.
+"Make us a double."
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
