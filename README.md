@@ -78,7 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
+> 💬 ASCII silly question, get a silly ANSI.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
