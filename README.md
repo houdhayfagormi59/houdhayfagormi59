@@ -78,7 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 ASCII silly question, get a silly ANSI.
+> 💬 The generation of random numbers is too important to be left to chance.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
