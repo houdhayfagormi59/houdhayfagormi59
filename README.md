@@ -78,7 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
+> 💬 The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
