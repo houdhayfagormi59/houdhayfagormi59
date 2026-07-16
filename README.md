@@ -78,7 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
+> 💬 Algorithm: A word used by programmers when they don't want to explain how their code works.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
