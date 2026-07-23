@@ -78,7 +78,10 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 Algorithm: A word used by programmers when they don't want to explain how their code works.
+> 💬 "Honey, go to the store and buy some eggs."
+"OK."
+"Oh and while you're there, get some milk."
+He never returned.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
