@@ -78,7 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
+> 💬 Algorithm: A word used by programmers when they don't want to explain how their code works.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
