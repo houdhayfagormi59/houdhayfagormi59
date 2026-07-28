@@ -78,7 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 Algorithm: A word used by programmers when they don't want to explain how their code works.
+> 💬 ASCII silly question, get a silly ANSI.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
