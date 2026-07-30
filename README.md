@@ -78,7 +78,10 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
+> 💬 Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn."
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
