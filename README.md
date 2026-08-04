@@ -78,7 +78,8 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 // This line doesn't actually do anything, but the code stops working when I delete it.
+> 💬 A SQL statement walks into a bar and sees two tables.
+It approaches, and asks "may I join you?"
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
