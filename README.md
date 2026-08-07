@@ -78,7 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
+> 💬 A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says "Can't you see the warning on the cigarette pack? Smoking is hazardous to your health!" to which the man replies, "I am a programmer.  We don't worry about warnings; we only worry about errors."
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
