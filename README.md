@@ -78,7 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 The generation of random numbers is too important to be left to chance.
+> 💬 If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
