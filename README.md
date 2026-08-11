@@ -78,7 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
+> 💬 UDP is better in the COVID era since it avoids unnecessary handshakes.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
