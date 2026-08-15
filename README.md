@@ -78,7 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 There are only 10 kinds of people in this world: those who know binary and those who don't.
+> 💬 I have a joke about Stack Overflow, but you would say it's a duplicate.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
