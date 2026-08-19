@@ -78,7 +78,9 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
+> 💬 "Can I tell you a TCP joke?"
+"Please tell me a TCP joke."
+"OK, I'll tell you a TCP joke."
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
