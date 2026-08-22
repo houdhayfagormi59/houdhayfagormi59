@@ -78,7 +78,10 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
+> 💬 "Honey, go to the store and buy some eggs."
+"OK."
+"Oh and while you're there, get some milk."
+He never returned.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
