@@ -78,11 +78,12 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5.
+> 💬 "Knock, knock."
+"Who's there?"
+
+[very long pause]
+
+"Java."
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
