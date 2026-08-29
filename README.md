@@ -78,7 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 Debugging: Removing the needles from the haystack.
+> 💬 "We messed up the keming again guys."
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
