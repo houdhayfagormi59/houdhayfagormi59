@@ -78,8 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 Have a great weekend!
-I hope your code behaves the same on Monday as it did on Friday.
+> 💬 Debugging: Removing the needles from the haystack.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
