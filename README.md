@@ -78,7 +78,10 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 I have a joke about Stack Overflow, but you would say it's a duplicate.
+> 💬 Judge: "I sentence you to the maximum punishment..."
+Me (thinking): "Please be death, please be death..."
+Judge: "Learn Java!"
+Me: "Damn."
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
