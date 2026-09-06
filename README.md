@@ -78,10 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 Judge: "I sentence you to the maximum punishment..."
-Me (thinking): "Please be death, please be death..."
-Judge: "Learn Java!"
-Me: "Damn."
+> 💬 I'd tell you a joke about NAT but I would have to translate.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
