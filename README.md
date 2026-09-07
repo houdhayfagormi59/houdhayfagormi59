@@ -78,7 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 I'd tell you a joke about NAT but I would have to translate.
+> 💬 Debugging: Removing the needles from the haystack.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
