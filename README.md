@@ -78,10 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 Judge: "I sentence you to the maximum punishment..."
-Me (thinking): "Please be death, please be death..."
-Judge: "Learn Java!"
-Me: "Damn."
+> 💬 I've got a really good UDP joke to tell you but I don’t know if you'll get it.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
