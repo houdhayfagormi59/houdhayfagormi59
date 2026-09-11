@@ -78,7 +78,11 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 // This line doesn't actually do anything, but the code stops working when I delete it.
+> 💬 Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
