@@ -78,7 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
+> 💬 I've got a really good UDP joke to tell you but I don’t know if you'll get it.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
