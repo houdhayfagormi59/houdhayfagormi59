@@ -78,7 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 I've got a really good UDP joke to tell you but I don’t know if you'll get it.
+> 💬 "We messed up the keming again guys."
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
