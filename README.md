@@ -78,11 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 How do you tell HTML from HTML5?
-- Try it out in Internet Explorer
-- Did it work?
-- No?
-- It's HTML5.
+> 💬 There are only 10 kinds of people in this world: those who know binary and those who don't.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
