@@ -78,7 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 UDP is better in the COVID era since it avoids unnecessary handshakes.
+> 💬 The generation of random numbers is too important to be left to chance.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
