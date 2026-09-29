@@ -78,7 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 There are only 10 kinds of people in this world: those who know binary and those who don't.
+> 💬 The generation of random numbers is too important to be left to chance.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
