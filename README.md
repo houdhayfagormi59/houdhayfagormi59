@@ -78,7 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 UDP is better in the COVID era since it avoids unnecessary handshakes.
+> 💬 ASCII silly question, get a silly ANSI.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
