@@ -78,7 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 I have a joke about Stack Overflow, but you would say it's a duplicate.
+> 💬 UDP is better in the COVID era since it avoids unnecessary handshakes.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
