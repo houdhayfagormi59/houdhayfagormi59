@@ -78,7 +78,12 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 UDP is better in the COVID era since it avoids unnecessary handshakes.
+> 💬 "Knock, knock."
+"Who's there?"
+
+[very long pause]
+
+"Java."
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
