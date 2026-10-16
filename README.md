@@ -78,7 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't.
+> 💬 "We messed up the keming again guys."
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
