@@ -78,7 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 I'd tell you a joke about NAT but I would have to translate.
+> 💬 I have a joke about Stack Overflow, but you would say it's a duplicate.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
