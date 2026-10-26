@@ -78,7 +78,11 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.
+> 💬 Knock knock.
+Who's there?
+Recursion.
+Recursion who?
+Knock knock.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
