@@ -78,11 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 Knock knock.
-Who's there?
-Recursion.
-Recursion who?
-Knock knock.
+> 💬 "We messed up the keming again guys."
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
