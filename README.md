@@ -78,7 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 "We messed up the keming again guys."
+> 💬 Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
