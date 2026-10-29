@@ -78,7 +78,11 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"
+> 💬 Hey Girl,
+Roses are #ff0000,
+Violets are #0000ff,
+I use hex codes,
+But I'd use RGB for you.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
