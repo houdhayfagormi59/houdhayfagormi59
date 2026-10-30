@@ -78,11 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 Hey Girl,
-Roses are #ff0000,
-Violets are #0000ff,
-I use hex codes,
-But I'd use RGB for you.
+> 💬 Debugging: Removing the needles from the haystack.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
