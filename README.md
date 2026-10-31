@@ -78,7 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 Debugging: Removing the needles from the haystack.
+> 💬 I have a joke about Stack Overflow, but you would say it's a duplicate.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
