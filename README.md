@@ -78,7 +78,11 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 ASCII silly question, get a silly ANSI.
+> 💬 How do you tell HTML from HTML5?
+- Try it out in Internet Explorer
+- Did it work?
+- No?
+- It's HTML5.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
