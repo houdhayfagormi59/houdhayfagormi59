@@ -78,7 +78,9 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 // This line doesn't actually do anything, but the code stops working when I delete it.
+> 💬 A guy walks into a bar and asks for 1.4 root beers.
+The bartender says "I'll have to charge you extra, that's a root beer float".
+The guy says "In that case, better make it a double."
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
