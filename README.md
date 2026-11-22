@@ -78,7 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 The generation of random numbers is too important to be left to chance.
+> 💬 I've got a really good UDP joke to tell you but I don’t know if you'll get it.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
