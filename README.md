@@ -78,7 +78,7 @@ const houhou = {
 <div align="center">
 
 <!-- JOKE_START -->
-> 💬 I've got a really good UDP joke to tell you but I don’t know if you'll get it.
+> 💬 If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.
 <!-- JOKE_END -->
 
 *↑ joke updates every day automatically*
